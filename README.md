@@ -24,4 +24,6 @@ El objetivo de este proyecto es crear una página web con un formulario de inici
 - CSS
 - JavaScript
 
+Contribuciones
+Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto, puedes crear un pull request.
 
