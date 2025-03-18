@@ -24,6 +24,10 @@ El objetivo de este proyecto es crear una página web con un formulario de inici
 - CSS
 - JavaScript
 
-Contribuciones
-Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto, puedes crear un pull request.
+##Contribuciones
+
+-Las contribuciones son bienvenidas.
+-Si tienes ideas para mejorar este proyecto, puedes crear un pull request.
+-Molaría mejorar la interzaz con contraseña y que, al poner la correcta, apareciese una animación antes de acceder al perfil.
+-Con esfuerzo, el video animado podría incluir música y servir de transición épica.
 
